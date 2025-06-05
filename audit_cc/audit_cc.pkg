@@ -1,0 +1,4 @@
+D 'audit_cc': Analysis of matched case-control audits of cervical cancer screening Use audit_cc With STATA 19
+D
+F audit_cc.ado
+F audit_cc.sthlp
